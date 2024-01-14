@@ -2,9 +2,11 @@
 Project Name ChatAPP
 Introduction
 Welcome to [ChatAPP UI]! This repository contains the source code for [brief description of your project]. Before you get started, make sure to follow the instructions below to set up the necessary libraries and dependencies.
+![Screenshot_1705215786](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/b0ac0777-9ac5-447b-a912-fa2a34aedb95)
 
 Installation
 To ensure smooth functioning of the application, it's essential to install the following libraries:
+![loginWithPhoneNumber](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/0694bad3-5c86-4d3f-9e55-b4ebf8c5639e)
 
 socket.io-client:
 
