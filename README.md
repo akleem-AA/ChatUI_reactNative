@@ -1,7 +1,11 @@
 
-Project Name ChatAPP
+Project Name ChatAPP UI
 Introduction
 Welcome to [ChatAPP UI]! This repository contains the source code for [brief description of your project]. Before you get started, make sure to follow the instructions below to set up the necessary libraries and dependencies.
+```first screen for display all friends list similar to whatsapp```
+ ![WhatsApp Image 2024-01-15 at 12 22 53 AM](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/258b591e-923e-4f17-9f41-ad95bc7b5a43)
+```second image for render the all message```
+
 ![Screenshot_1705215786](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/b0ac0777-9ac5-447b-a912-fa2a34aedb95)
 
 Installation
@@ -9,7 +13,10 @@ To ensure smooth functioning of the application, it's essential to install the f
 
 
 socket.io-client:
+
+```delete the message```
 ![WhatsApp Image 2024-01-15 at 12 04 07 AM (1)](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/0ca86054-3cb5-4ae1-a3f0-2a077fd2c87f)
+
 
 
 Although included, it is currently not utilized in the project. Feel free to remove it if unnecessary.
