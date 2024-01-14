@@ -6,9 +6,11 @@ Welcome to [ChatAPP UI]! This repository contains the source code for [brief des
 
 Installation
 To ensure smooth functioning of the application, it's essential to install the following libraries:
-![loginWithPhoneNumber](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/0694bad3-5c86-4d3f-9e55-b4ebf8c5639e)
+
 
 socket.io-client:
+![WhatsApp Image 2024-01-15 at 12 04 07 AM (1)](https://github.com/akleem-AA/ChatUI_reactNative/assets/74227145/0ca86054-3cb5-4ae1-a3f0-2a077fd2c87f)
+
 
 Although included, it is currently not utilized in the project. Feel free to remove it if unnecessary.
 bash
